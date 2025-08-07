@@ -11,7 +11,7 @@ apps/mf-a/node_modules/
 apps/mf-a/.turbo
 apps/mf-b/dist/
 apps/mf-b/node_modules/
-apps/mf-b/.turbo.turbo/
+apps/mf-b/.turbo/
 .next/
 dist/
 out/
